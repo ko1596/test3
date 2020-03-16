@@ -1,2 +1,4 @@
 ﻿  gitTutorial.cpp
-c:\users\yzh\desktop\gittutorial\gittutorial\gittutorial.cpp(11): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "pch.h"'?
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  gitTutorial.vcxproj -> C:\Users\user\Desktop\test3\GitTutorial\Debug\gitTutorial.exe
