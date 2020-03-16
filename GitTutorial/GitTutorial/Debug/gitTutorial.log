@@ -1,4 +1,4 @@
 ﻿  gitTutorial.cpp
-  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+c:\users\user\desktop\test3\gittutorial\gittutorial\gittutorial.cpp(14): warning C4700: 使用了未初始化的區域變數 'guess'
   AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
   gitTutorial.vcxproj -> C:\Users\user\Desktop\test3\GitTutorial\Debug\gitTutorial.exe
